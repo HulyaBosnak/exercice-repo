@@ -1,7 +1,3 @@
 # exercice-repo
-
-GitBash!
-
-
-Hi
+Hi from Master!
 
