@@ -1,3 +1,2 @@
  This is Conflicts
- Resolve Them
-second
+ 
