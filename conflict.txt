@@ -3,10 +3,8 @@
  Resolve Them
 dadadadada
 
- 
 
-=======
  This is Conflict
  Resolve Them
 dadadada
->>>>>>> 898f15ff798173bdd102d79aa8f6cf412331ecaf
+
