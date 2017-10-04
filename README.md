@@ -1,2 +1,7 @@
 # exercice-repo
+
 GitBash!
+
+
+Hi
+
