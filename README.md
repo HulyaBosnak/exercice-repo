@@ -1,7 +1,4 @@
 # exercice-repo
 
-GitBash!
-
-
-Hi
+new branch
 
