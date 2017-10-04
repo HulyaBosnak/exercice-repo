@@ -1,1 +1,6 @@
+Ilove git hub!
+<<<<<<< .mine
 !I love github
+=======
+created develop branch
+>>>>>>> .theirs
