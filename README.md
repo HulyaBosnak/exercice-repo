@@ -1,2 +1,3 @@
 # exercice-repo
-Discription
+Repo made for exercises
+Making some changes here!
