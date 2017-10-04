@@ -1,1 +1,2 @@
-2 - This is Conflicts and Resolve Them
+ This is Conflicts
+ Resolve Them
